@@ -7,3 +7,14 @@
   =>  Template Author  : HTML Codex
 
   =>  Author Website   : https://htmlcodex.com
+
+  =>  http://localhost:8080/silversky/
+
+  =>  Username: raji@gmail.com
+  =>  Password: raji
+
+  =>  http://localhost:8080/silversky/adminpanel/login.php
+
+
+  =>  Username: admin
+  =>  Password: AdminTMS@123#$
